@@ -45,8 +45,8 @@ Looking for a Middle Front End Developer role where I can:
 
 ## Contact
 - GitHub: https://github.com/DHayk87
-- LinkedIn: https://.linkedin.com/in/dhayk
-- Codewars: https://www.codewars.com/users/DHayk87
+- LinkedIn: https://linkedin.com/in/dhayk
+- Codewars: https://codewars.com/users/DHayk87
 - Email: DHayk87@gmail.com
 
 
