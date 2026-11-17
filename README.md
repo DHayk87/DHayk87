@@ -1,4 +1,4 @@
-# Hi, I'm Hayk Dilakyan 👋
+# Hi, I'm Hayk Dilakyan 
 
 **Middle Front-End Developer | JavaScript / TypeScript | React**
 
@@ -6,7 +6,7 @@ Front-End Developer and Programming Trainer with commercial experience building,
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 * **Frontend:** JavaScript (ES6+), TypeScript, React, Redux Toolkit, Zustand, HTML5, CSS3, SCSS, Tailwind CSS
 * **Backend & DB:** Node.js, Express, MongoDB, REST API
@@ -15,7 +15,7 @@ Front-End Developer and Programming Trainer with commercial experience building,
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 * **[Better Box Comments](ссылка_на_репо_или_marketplace)** — VS Code extension & CLI tool for generating styled ASCII comment blocks to improve code readability. *(TypeScript, Node.js, VS Code API)*
 * **[JS.CORE / JavaScript Masterclass](ссылка_на_репо)** — Interactive educational platform with structured modules, DOM visualizers, and unit tests. *(JavaScript, Vite, i18next, Vitest)*
@@ -24,7 +24,7 @@ Front-End Developer and Programming Trainer with commercial experience building,
 
 ---
 
-### 🎯 Looking For
+### Looking For
 
 Open to **Middle Front-End Developer** opportunities where I can:
 * Solve complex architectural and UI challenges in real-world products
@@ -33,7 +33,7 @@ Open to **Middle Front-End Developer** opportunities where I can:
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 * **GitHub:** [github.com/DHayk87](https://github.com/DHayk87)
 * **LinkedIn:** [linkedin.com/in/dhayk](https://linkedin.com/in/dhayk)
