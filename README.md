@@ -17,9 +17,9 @@ Front-End Developer and Programming Trainer with commercial experience building,
 
 ### Featured Projects
 
-* **[Better Box Comments](ссылка_на_репо_или_marketplace)** — VS Code extension & CLI tool for generating styled ASCII comment blocks to improve code readability. *(TypeScript, Node.js, VS Code API)*
-* **[JS.CORE / JavaScript Masterclass](ссылка_на_репо)** — Interactive educational platform with structured modules, DOM visualizers, and unit tests. *(JavaScript, Vite, i18next, Vitest)*
-* **[cspell-armenian](ссылка_на_PR_или_репо)** — Open-source contribution adding Armenian language dictionary support to the Code Spell Checker ecosystem.
+* **[Better Box Comments](https://github.com/DHayk87/Better-Box-Comments)** — VS Code extension & CLI tool for generating styled ASCII comment blocks to improve code readability. *(TypeScript, Node.js, VS Code API)*
+* **[JS.CORE / JavaScript Masterclass](https://github.com/DHayk87/Better-Box-Comments)** — Interactive educational platform with structured modules, DOM visualizers, and unit tests. *(JavaScript, Vite, i18next, Vitest)*
+* **[cspell-armenian](https://github.com/DHayk87/cspell-dicts/tree/main)** — Open-source contribution adding Armenian language dictionary support to the Code Spell Checker ecosystem.
 * **Chrome Shape Drawer** — Interactive browser extension for drawing and annotating shapes directly on web pages. *(Vanilla JS, HTML5 Canvas, Chrome Extensions API)*
 
 ---
