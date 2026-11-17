@@ -1,66 +1,41 @@
-# Hayk Dilakyan
+# Hi, I'm Hayk Dilakyan 👋
 
-Middle Front End Developer | JavaScript | React
+**Middle Front-End Developer | JavaScript / TypeScript | React**
 
-## Summary
-Middle Front End Developer with solid commercial experience in building and maintaining web applications.
-Confident in working with existing codebases, improving UI architecture, and delivering stable features.
-Focused on code quality, performance, and business-oriented solutions.
+Front-End Developer and Programming Trainer with commercial experience building, refactoring, and maintaining production web applications. Focused on clean UI architecture, performance optimization, and scalable component design. Passionate about developer tooling and open-source.
 
-## Core competencies
-- Strong JavaScript knowledge and understanding of browser internals
-- Confident React development with hooks and reusable components
-- Ability to work with legacy code and refactor it safely
-- Writing clean, readable, and maintainable code
-- Experience collaborating with designers, backend developers, and product teams
+---
 
-## Technical stack
-- JavaScript (ES6+), TypeScript
-- React, Hooks, Context API
-- HTML5, CSS3, Responsive Design
-- REST API integration
-- Git, GitHub
-- Vite, Webpack
+### 🛠 Tech Stack
 
-## Experience highlights
-- Development and support of production web applications
-- Implementation of new features from requirements to release
-- Refactoring and optimization of existing UI code
-- Creation of reusable components and utilities
-- Participation in code reviews
+* **Frontend:** JavaScript (ES6+), TypeScript, React, Redux Toolkit, Zustand, HTML5, CSS3, SCSS, Tailwind CSS
+* **Backend & DB:** Node.js, Express, MongoDB, REST API
+* **Tools & DevOps:** Git, GitHub, Vite, Webpack, Docker, Vitest, i18next
+* **Currently exploring:** Go (Golang)
 
-## Selected projects
-- VS Code Extension for automated code commenting  
-  Improves code readability and development speed.
-- Chrome Extension for drawing shapes  
-  Interactive tool built with vanilla JavaScript.
-- UI components library  
-  Focused on scalability and consistent design.
+---
 
-## Professional focus
-Looking for a Middle Front End Developer role where I can:
-- Work on complex real-world applications
-- Take responsibility for features and quality
-- Grow towards Senior-level frontend architecture
+### 🚀 Featured Projects
 
-## Contact
-- GitHub: https://github.com/DHayk87
-- LinkedIn: https://linkedin.com/in/dhayk
-- Codewars: https://codewars.com/users/DHayk87
-- Email: DHayk87@gmail.com
+* **[Better Box Comments](ссылка_на_репо_или_marketplace)** — VS Code extension & CLI tool for generating styled ASCII comment blocks to improve code readability. *(TypeScript, Node.js, VS Code API)*
+* **[JS.CORE / JavaScript Masterclass](ссылка_на_репо)** — Interactive educational platform with structured modules, DOM visualizers, and unit tests. *(JavaScript, Vite, i18next, Vitest)*
+* **[cspell-armenian](ссылка_на_PR_или_репо)** — Open-source contribution adding Armenian language dictionary support to the Code Spell Checker ecosystem.
+* **Chrome Shape Drawer** — Interactive browser extension for drawing and annotating shapes directly on web pages. *(Vanilla JS, HTML5 Canvas, Chrome Extensions API)*
 
+---
 
-<!--
-**DHayk87/DHayk87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Looking For
 
-Here are some ideas to get you started:
+Open to **Middle Front-End Developer** opportunities where I can:
+* Solve complex architectural and UI challenges in real-world products
+* Take ownership of features from design to production
+* Grow towards a Senior Front-End Engineer role
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect with me
+
+* **GitHub:** [github.com/DHayk87](https://github.com/DHayk87)
+* **LinkedIn:** [linkedin.com/in/dhayk](https://linkedin.com/in/dhayk)
+* **Codewars:** [codewars.com/users/DHayk87](https://codewars.com/users/DHayk87) *(3 kyu)*
+* **Email:** DHayk87@gmail.com
